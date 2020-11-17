@@ -120,17 +120,14 @@ Contoh : !pasangan covad & covid
 
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
-FOLLOW INSTAGRAM SAYA
-${instagram}
+IKUTI INSTAGRAM SAY
+$ {ajhialfarid
+• WA: 62895619811574
+• Pasang Iklan? Obrolan Whatsapp.
 
-• TELEGRAM : ${telegram}
-• Youtube : R E U Z
-• WA : 081271699856
-• Pasang Iklan? Chat Whatsapp.
-
-📺 *IKLAN* : *YOUTUBE REUZ*
-
-🏚SELALU GUNAKAN MASKER SAAT KELUAR!🏚
-🏚SEMOGA SEHAT SELALU!🏚
+📺 * IKLAN *: * wa: https: // wa.me/+62895619811574
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s> 
+🏚SELALU GUNAKAN MASKER SAAT KELUAR🏚
+🏚SEMOGA SEHAT SELALU🏚
 `
 }
