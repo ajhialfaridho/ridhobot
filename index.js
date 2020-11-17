@@ -14,7 +14,6 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'ridhobot☄'; 
-const instagram = 'https://instagram.com/ajhialfarid";
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
